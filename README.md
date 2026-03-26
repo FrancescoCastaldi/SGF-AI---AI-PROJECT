@@ -1,4 +1,4 @@
-# SGF-AI - Progetto di Intelligenza Artificiale
+# SGF^2 - AI - Progetto di Intelligenza Artificiale
 
 ## Descrizione
 
