@@ -107,6 +107,4 @@ E' stato condotto uno studio di ablation sul modello Random Forest per valutare 
 
 MIT
 
-## Autore
 
-Francesco Castaldi - Universita' di Bologna
